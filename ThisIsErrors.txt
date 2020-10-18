@@ -1,0 +1,7 @@
+Para error de kenel de linux en W10pro:
+
+https://docs.microsoft.com/es-es/windows/wsl/wsl2-kernel
+
+instalar GIT:
+
+https://git-scm.com/downloads
